@@ -1,17 +1,17 @@
 # Guía Resuelta AED-2023
 
-Este repositorio contiene ejercicios resueltos de la guía teórica de Algoritmos 2023 🤗.
+En este repositorio vas a encontrar los ejercicios resueltos de la guía teórica de Algoritmos 2023 🤗.
 
-Puedes acceder a la guía completa en formato digital en el siguiente enlace: https://aed-frre.github.io/
+Para acceder a la guía completa, mandate al siguiente enlace: https://aed-frre.github.io/
 
-Antes de continuar, quiero aclarar que no estoy seguro si esta práctica es bien vista por los profesores 😯. Sin embargo, considero que no debería haber problemas, ya que existen otros repositorios similares y se comparte información similar sin inconvenientes a través de Discord, las clases teóricas y otros medios.
+La verdad, no sé si esto estará bien visto por los profes 😯. Pero no creo que haya problema, hay otros repositorios parecidos, y además, información similar se comparte sin drama por Discord, las clases teóricas y otros medios.
 
-En caso de que mi decisión de compartir estas soluciones públicamente sea incorrecta, me comprometo a poner el repositorio en modo privado de inmediato si así me lo solicitan.
+De todas formas, si no está bien, avísenme y pongo el repositorio en privado al toque.
 
-¿Por qué compartir aquí?
+## ¿Por qué comparto esto acá?
 
-La razón principal de compartir estas soluciones en GitHub es garantizar una distribución fácil y ordenada de las resoluciones. Para mí, esto resulta beneficioso, ya que al exponer mis soluciones de esta manera, puedo asegurar con mayor rigor la calidad de los ejercicios resueltos. Además, estas soluciones pueden resultar útiles para otros compañeros, ya sea para comparar sus propias respuestas o como puntos de referencia, entre otros usos.
+La idea es que, al tener las resoluciones ordenadas en GitHub, sea más fácil distribuir y colaborar. A mí me conviene porque, al exponer esto acá, puedo asegurarme con más seguridad de que las soluciones estén bien. Y también puede ser útil para otros compañeros que quieran comparar sus propias soluciones o tener puntos de referencia externos, entre otras cosas.
 
-Por último, quiero enfatizar que no se recomienda copiar directamente las soluciones. Cada estudiante debe esforzarse por resolver los ejercicios por sí mismo, ya que es la mejor manera de aprender y mejorar en el proceso.
+Por último, recomiendo fuertemente no copiar directamente. Cada uno debería esforzarse por resolver los ejercicios por su cuenta, ya que es la mejor forma de aprender y mejorar en el proceso.
 
-¡Espero que este repositorio sea de utilidad y promueva un aprendizaje efectivo en el curso!
+¡Espero que este repositorio te sea útil y fomente un aprendizaje efectivo en el cursado!
